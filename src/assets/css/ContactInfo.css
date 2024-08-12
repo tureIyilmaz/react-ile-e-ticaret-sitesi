@@ -1,0 +1,23 @@
+.info-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-map-baslik hr {
+    width: 80%;
+    margin: auto;
+    padding-bottom: 2rem;
+}
+
+.contact-map-text {
+    padding: 2rem;
+    border: 1px solid #fb4a36;
+    border-radius: 1rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}

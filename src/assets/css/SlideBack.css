@@ -1,0 +1,18 @@
+.slide-back-row {
+    justify-content: space-evenly;
+}
+
+.slide-image {
+    width: 100%;
+    height: 70%;
+}
+
+.slide-back {
+    text-align: center;
+    padding: 3rem;
+}
+
+.title {
+    margin: 0.8rem;
+    font-weight: 700;
+}

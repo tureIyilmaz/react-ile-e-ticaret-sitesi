@@ -1,0 +1,286 @@
+[
+    {
+        "items": [
+            {
+                "id": 1,
+                "name": "Margarita",
+                "description": "Özel Sezar Sos, Mozzarella Peyniri",
+                "price": 285.00,
+                "image": "margarita.jpg",
+                "discount": true,
+                "trend": false,
+                "ingredientsCount": 2,
+                "category": "Pizza"
+            },
+            {
+                "id": 2,
+                "name": "Sucukbol",
+                "description": "Özel Sezar Sos, Mozzarella Peyniri, Dilim Sucuk",
+                "price": 305.00,
+                "image": "sucukbol.jpg",
+                "discount": false,
+                "trend": true,
+                "ingredientsCount": 3,
+                "category": "Pizza"
+            },
+            {
+                "id": 3,
+                "name": "Etibol",
+                "description": "Özel Sezar Sos, Mozzarella Peyniri, Jambon, Sosis, Küp Sucuk, Pastırma, Pepperoni, Soğan",
+                "price": 335.00,
+                "image": "etibol.jpg",
+                "discount": true,
+                "trend": true,
+                "ingredientsCount": 8,
+                "category": "Pizza"
+            },
+            {
+                "id": 4,
+                "name": "Karışık",
+                "description": "Özel Sezar Sos, Mozzarella Peyniri, Küp Sucuk, Sosis, Mantar, Mısır, Siyah Zeytin",
+                "price": 315.00,
+                "image": "karisik.jpg",
+                "discount": false,
+                "trend": false,
+                "ingredientsCount": 6,
+                "category": "Pizza"
+            },
+            {
+                "id": 5,
+                "name": "Parti",
+                "description": "Özel Sezar Sos, Mozzarella Peyniri, Sosis, Mısır, Siyah Zeytin",
+                "price": 305.00,
+                "image": "parti.jpg",
+                "discount": true,
+                "trend": false,
+                "ingredientsCount": 4,
+                "category": "Pizza"
+            },
+            {
+                "id": 6,
+                "name": "Akdeniz",
+                "description": "Özel Sezar Sos, Mozzarella Peyniri, Beyaz Peynir, Mantar, Siyah Zeytin, Yeşil Biber, Domates, Kekik",
+                "price": 315.00,
+                "image": "akdeniz.jpg",
+                "discount": false,
+                "trend": true,
+                "ingredientsCount": 7,
+                "category": "Pizza"
+            },
+            {
+                "id": 7,
+                "name": "Kavurmalı",
+                "description": "Özel Sezar Sos, Mozzarella Peyniri, Kavurma, Yeşil Biber, Közlenmiş Kırmızı Biber, Soğan",
+                "price": 335.00,
+                "image": "kavurmali.jpg",
+                "discount": true,
+                "trend": false,
+                "ingredientsCount": 5,
+                "category": "Pizza"
+            },
+            {
+                "id": 8,
+                "name": "Ton Balıklı",
+                "description": "Özel Sezar Sos, Mozzarella Peyniri, Ton Balığı, Siyah Zeytin, Domates, Mısır, Soğan",
+                "price": 335.00,
+                "image": "ton_balikli.jpg",
+                "discount": false,
+                "trend": true,
+                "ingredientsCount": 6,
+                "category": "Pizza"
+            },
+            {
+                "id": 9,
+                "name": "Piknik",
+                "description": "Özel Sezar Sos, Mozzarella Peyniri, Jambon, Mantar",
+                "price": 285.00,
+                "image": "piknik.jpg",
+                "discount": true,
+                "trend": true,
+                "ingredientsCount": 3,
+                "category": "Pizza"
+            },
+            {
+                "id": 10,
+                "name": "Pepperonni",
+                "description": "Özel Sezar Sos, Mozzarella Peyniri, Pepperoni",
+                "price": 305.00,
+                "image": "pepperoni.jpg",
+                "discount": false,
+                "trend": false,
+                "ingredientsCount": 2,
+                "category": "Pizza"
+            },
+            {
+                "id": 11,
+                "name": "Sarımsak Soslu Sucukbol",
+                "description": "Özel Sezar Sos, Mozzarella Peyniri, Sarımsak Sos, Dilim Sucuk",
+                "price": 305.00,
+                "image": "sarimsak_soslu_sucukbol.jpg",
+                "discount": true,
+                "trend": false,
+                "ingredientsCount": 4,
+                "category": "Pizza"
+            },
+            {
+                "id": 12,
+                "name": "İtalyan",
+                "description": "Özel Sezar Sos, Mozzarella Peyniri, Küp Sucuk, Beyaz Peynir, Közlenmiş Kırmızı Biber, Siyah Zeytin, Mantar",
+                "price": 315.00,
+                "image": "italyan.jpg",
+                "discount": false,
+                "trend": true,
+                "ingredientsCount": 6,
+                "category": "Pizza"
+            },
+            {
+                "id": 13,
+                "name": "Acı Tavukbol",
+                "description": "Özel Sezar Sos, Mozzarella Peyniri, Özel Baharatlı Fırınlanmış Tavuk, Ekstra Tavuk, Közlenmiş Kırmızı Biber, Jalapeno Acı Biber",
+                "price": 325.00,
+                "image": "aci_tavukbol.jpg",
+                "discount": true,
+                "trend": true,
+                "ingredientsCount": 6,
+                "category": "Pizza"
+            },
+            {
+                "id": 14,
+                "name": "Süper Sezar",
+                "description": "Özel Sezar Sos, Mozzarella Peyniri, Küp Sucuk, Pepperoni, Sosis, Mantar, Siyah Zeytin, Soğan, Yeşil Biber",
+                "price": 325.00,
+                "image": "super_sezar.jpg",
+                "discount": false,
+                "trend": false,
+                "ingredientsCount": 8,
+                "category": "Pizza"
+            },
+            {
+                "id": 15,
+                "name": "Karışıkbol",
+                "description": "Özel Sezar Sos, Mozzarella Peyniri, Sucuk Küp, Sosis, Jambon, Mantar, Mısır, Yeşil Biber, Siyah Zeytin, Parmesan, Baharat Karışımı",
+                "price": 325.00,
+                "image": "karisikbol.jpg",
+                "discount": true,
+                "trend": true,
+                "ingredientsCount": 9,
+                "category": "Pizza"
+            },
+            {
+                "id": 16,
+                "name": "Parti",
+                "description": "Özel Sezar Sos, Mozzarella Peyniri, Sosis, Mısır, Siyah Zeytin",
+                "price": 305.00,
+                "image": "parti.jpg",
+                "discount": false,
+                "trend": false,
+                "ingredientsCount": 4,
+                "category": "Pizza"
+            },
+            {
+                "id": 17,
+                "name": "Ketçap",
+                "description": "",
+                "price": 5.00,
+                "image": "ketçap.jpg",
+                "category": "Sauces"
+            },
+            {
+                "id": 18,
+                "name": "Mayonez",
+                "description": "",
+                "price": 5.00,
+                "image": "mayonez.jpg",
+                "category": "Sauces"
+            },
+            {
+                "id": 19,
+                "name": "Acı Sos",
+                "description": "",
+                "price": 20.00,
+                "image": "aci_sos.jpg",
+                "category": "Sauces"
+            },
+            {
+                "id": 20,
+                "name": "Sufle",
+                "description": "",
+                "price": 70.00,
+                "image": "sufle.jpg",
+                "category": "Desserts"
+            },
+            {
+                "id": 21,
+                "name": "Dondurma",
+                "description": "",
+                "price": 35.00,
+                "image": "dondurma.jpg",
+                "category": "Desserts"
+            },
+            {
+                "id": 22,
+                "name": "Su",
+                "description": "",
+                "price": 10.00,
+                "image": "su.jpg",
+                "category": "Drinks"
+            },
+            {
+                "id": 23,
+                "name": "Ayran",
+                "description": "",
+                "price": 20.00,
+                "image": "ayran.jpg",
+                "category": "Drinks"
+            },
+            {
+                "id": 24,
+                "name": "Pepsi Şekersiz 1lt",
+                "description": "",
+                "price": 15.00,
+                "image": "pepsi_zero_1lt.jpg",
+                "category": "Drinks"
+            },
+            {
+                "id": 25,
+                "name": "Pepsi 1lt",
+                "description": "",
+                "price": 15.00,
+                "image": "pepsi_1lt.jpg",
+                "category": "Drinks"
+            },
+            {
+                "id": 26,
+                "name": "Lipton Ice Tea Limonlu 1lt",
+                "description": "",
+                "price": 10.00,
+                "image": "lipton_limon_1lt.jpg",
+                "category": "Drinks"
+            },
+            {
+                "id": 27,
+                "name": "Lipton Ice Tea Şeftalili 1lt",
+                "description": "",
+                "price": 10.00,
+                "image": "lipton_seftali_1lt.jpg",
+                "category": "Drinks"
+            },
+            {
+                "id": 28,
+                "name": "Sade Soda",
+                "description": "",
+                "price": 10.00,
+                "image": "soda.jpg",
+                "category": "Drinks"
+            },
+            {
+                "id": 29,
+                "name": "Yedigün 1lt",
+                "description": "",
+                "price": 10.00,
+                "image": "yedigun_1lt.jpg",
+                "category": "Drinks"
+            }
+        ]
+    }
+]

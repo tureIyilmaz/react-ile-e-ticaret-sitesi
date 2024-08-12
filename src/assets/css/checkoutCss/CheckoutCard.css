@@ -1,0 +1,27 @@
+
+  .checkout-box {
+    padding: 20px;
+    line-height: 2rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    background-color: whitesmoke;
+    width: 80%;
+    
+  }
+
+  .checkout-title {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  
+  .radio-label {
+    display: flex;
+    align-items: center;
+  }
+  
+  .radio-icon {
+    margin-right: 1rem;
+    font-size: 24px;
+  }
+  

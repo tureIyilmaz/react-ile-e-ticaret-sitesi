@@ -1,0 +1,34 @@
+
+.about-side{
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+
+}
+
+.about-side-img img{
+    width: 100%;
+    height: 100%;
+    border-radius: 0.5rem;
+    border: 1px solid rgb(167, 164, 164);
+}
+
+.about-side-text{
+    text-align: center;
+    margin-top: 20rem;
+    
+}
+
+.about-side-text i{
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background-color: rgb(246, 185, 161);
+    border-radius: 50%;
+    font-size: 2rem;
+    color: rgb(98, 57, 14);
+    border: 2px solid orangered;
+    
+}
+
+.about-side-text p{
+    color: rgb(92, 90, 90);
+}

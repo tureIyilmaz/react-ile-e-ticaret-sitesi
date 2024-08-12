@@ -1,0 +1,15 @@
+
+.fixed-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 1rem;
+    background-color: #131313;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+
+

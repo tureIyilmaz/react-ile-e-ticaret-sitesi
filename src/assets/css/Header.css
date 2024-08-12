@@ -1,0 +1,13 @@
+.logo {
+    width: 2rem;
+    cursor: pointer;
+}
+
+.MuiButton-root {
+    font-family: 'Lexend', sans-serif;
+    justify-content: space-around;
+}
+
+.MuiIconButton-root {
+    font-size: 1.5rem;
+}

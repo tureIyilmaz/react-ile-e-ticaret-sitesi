@@ -1,0 +1,15 @@
+.about-partner{
+    margin-bottom: 4rem;
+}
+
+.about-partner-text{
+    text-align: center;
+    margin-bottom: 2rem;
+    margin-top: 5rem;
+}
+
+.about-partner-img img{
+    border-radius: 1rem;
+    border: 10px double tomato;
+    width: 70%;
+}

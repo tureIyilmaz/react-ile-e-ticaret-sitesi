@@ -1,0 +1,23 @@
+.settings-profile-firstButton input {
+    padding: 0.5rem;
+    width: 70%;
+    border-radius: 1rem;
+    border: 1px solid transparent;
+    margin-bottom: 0.5rem;
+}
+
+.settings-profile-firstButton input:hover {
+    background-color: #fb4d36;
+    color: white;
+}
+
+
+.settings-profile-secondButton input {
+    padding: 0.5rem;
+    width: 100%;
+    border-radius: 0.8rem;
+    border: 1px solid transparent;
+    margin-top: 1rem;
+    background-color: #fb4d36;
+    color: white;
+}

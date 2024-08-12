@@ -1,0 +1,35 @@
+.form-container {
+    margin-top: 2rem;
+    margin-bottom: 6rem;
+}
+
+.header {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.header h2 {
+    margin: 0;
+}
+
+.header hr {
+    margin: 1rem auto;
+    width: 50%;
+}
+
+.form-field {
+    margin: 1rem 0;
+}
+
+
+.submit-button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.submit-button {
+    margin-top: 1rem !important;
+    background-color: #FB4A36 !important;
+
+}

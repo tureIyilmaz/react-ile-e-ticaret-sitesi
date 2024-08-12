@@ -1,0 +1,83 @@
+.footer {
+    padding: 20px;
+    text-align: center;
+}
+
+.footer h3 {
+    margin-top: 1rem;
+    font-size: 1.2rem;
+}
+
+.footer-links {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-links li {
+    margin-bottom: 0.5rem;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: #333;
+}
+
+.footer-links a:hover {
+    text-decoration: none;
+    color: #fb4a36;
+}
+
+.form-control {
+    background-color: transparent !important;
+    padding: 1rem !important;
+    margin: 1rem !important;
+    border: 1px solid #131313 !important;
+    border-radius: 0.5rem !important;
+}
+
+.subscribe-btn {
+    background-color: #131313 !important;
+    color: #fff !important;
+    border: none !important;
+    padding: 0.5rem 1rem !important;
+    border-radius: 0.5rem !important;
+    cursor: pointer !important;
+}
+
+.subscribe-btn:hover {
+    background-color: #fff !important;
+    color: #131313 !important;
+    border: none !important;
+    padding: 0.5rem 1rem !important;
+    border-radius: 0.5rem !important;
+    cursor: pointer !important;
+}
+
+.subscribe-btn:active {
+    background-color: #fff !important;
+    color: #131313 !important;
+    border: 1px solid black !important;
+    padding: 0.5rem 1rem !important;
+    border-radius: 0.5rem !important;
+    cursor: pointer !important;
+}
+
+.social-icons {
+    margin-top: 1rem;
+}
+
+.social-icons a {
+    color: #131313;
+    margin-left: 2.5rem;
+    font-size: 1.5rem;
+}
+
+.social-icons a:hover {
+    color: #fb4a36;
+}
+
+.footer-text {
+    text-align: center;
+    margin-top: 2rem;
+    color: #131313;
+}

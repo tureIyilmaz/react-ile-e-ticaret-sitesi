@@ -1,0 +1,14 @@
+.title-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.title-hr {
+    width: 20%;
+    margin: auto;
+    margin-top: 0.2rem;
+    margin-bottom: 1rem;
+}
